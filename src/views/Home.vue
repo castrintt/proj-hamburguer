@@ -2,7 +2,7 @@
   <div>
     <Banner />
     <div class="main-container">
-      <h1>Monte o seu Burger</h1>
+      <h1>Monte o seu Hamburguer</h1>
       <BurgerForm />
     </div>
   </div>

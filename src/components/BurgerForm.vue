@@ -24,7 +24,7 @@
           </select>
         </div>
         <div class="input-container">
-          <label for="carne">Escolha a Carne do seu Burger *</label>
+          <label for="carne">Escolha a Carne do seu hamburguer *</label>
           <select name="carne" id="carne" v-model="carne" required>
             <option value="">Selecione o tipo de carne</option>
             <option v-for="carne in carnes" :key="carne.id" :value="carne.id">

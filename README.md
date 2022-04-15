@@ -1,4 +1,4 @@
-# proj-hamburguer
+# Projeto - Hamb
 Projeto para cadastro e visualização de pedidos
 
 # TELA PRINCIPAL - HOME
@@ -13,3 +13,8 @@ Projeto para cadastro e visualização de pedidos
 # GERENCIADOR DE PEDIDOS - PEDIDOS
 
 ![image](https://user-images.githubusercontent.com/96383031/163088674-f2e24458-cad3-4d7c-b4ae-85b45b620768.png)
+
+
+npm run backend - para inicializar o Json-server
+
+npm run serve - para abrir na porta 8080
